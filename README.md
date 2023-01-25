@@ -4,7 +4,7 @@
 
 <h3> whoami ❓</h3>
 
-My name is Sergio, I'm a junior pentester, actually owning eJPTv2 and looking to get eCPPTv2 and OSCP soon.
+My name is Sergio, I'm a junior pentester, bug bounty hunter & CTF player, actually owning eJPTv2 and looking to get eCPPTv2 and OSCP soon.
 
 <h3>Languages I code with</h3>
 
