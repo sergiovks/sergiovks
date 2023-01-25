@@ -1,4 +1,26 @@
-### Hi there 👋
+<h1> 👋 :wave:</h1>
+
+<h3>whoami</h3>
+
+<img src="https://github.com/sergiovks/sergiovks/blob/main/banner.jpg?raw=true">
+
+Hello people, my name is Sergio, I'm a junior pentester, actually owning eJPTv2 and looking to get eCPPTv2 and OSCP soon.
+
+
+
+- 🔭 I’m currently working on hackerone as a Bug Bounty Hunter.
+
+- 🌱 I’m currently learning Pentesting & Red Teaming.
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
 
 <!--
 **sergiovks/sergiovks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
