@@ -26,7 +26,7 @@ Pentesting & Red Teaming.
 
 <h3>📫 How to reach me: 📫</h3>
 
-  <a href="mailto:sergiomarincontacto@gmail.com">Email</a> 
+<a href="mailto:sergiomarincontacto@gmail.com">Email</a> 
 
 <!--
 **sergiovks/sergiovks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
