@@ -18,9 +18,9 @@ My name is Sergio, I'm a junior pentester, actually owning eJPTv2 and looking to
 
 <img src="https://static-00.iconduck.com/assets.00/hackerone-icon-512x512-s11oc51r.png" width="20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hackerone as a Bug Bounty Hunter. <img src="https://static-00.iconduck.com/assets.00/hackerone-icon-512x512-s11oc51r.png" width="20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<h3>📖Currently learning:📖</h3>
 
-
-- 🌱 I’m currently learning Pentesting & Red Teaming.
+Pentesting & Red Teaming.
 
 - 🤔 I’m looking for help with ...
 
