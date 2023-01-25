@@ -1,6 +1,6 @@
 <h1> 💻🖱️ sergiovks Repository AKA SezioS 🖱️💻 </h1>
 
-<img src="https://github.com/sergiovks/sergiovks/blob/main/banner.jpg?raw=true">
+<img src="https://github.com/sergiovks/sergiovks/blob/main/banner2.jpg?raw=true">
 
 <h3> whoami❓</h3>
 
