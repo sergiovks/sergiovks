@@ -16,7 +16,7 @@ My name is Sergio, I'm a junior pentester, actually owning eJPTv2 and looking to
 
 <h3>Currently working at: </h3>
 
-Hackerone as a Bug Bounty Hunter. <img src="https://static-00.iconduck.com/assets.00/hackerone-icon-512x512-s11oc51r.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Hackerone as a Bug Bounty Hunter. <img src="https://static-00.iconduck.com/assets.00/hackerone-icon-512x512-s11oc51r.png" width="20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
