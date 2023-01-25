@@ -1,10 +1,10 @@
-<h1> 💻 sergiovks Repository AKA SezioS 💻 </h1>
+<h1> 💻🖱️ sergiovks Repository AKA SezioS 🖱️💻 </h1>
 
 <img src="https://github.com/sergiovks/sergiovks/blob/main/banner.jpg?raw=true">
 
-<h3>whoami</h3>
+<h3> whoami❓</h3>
 
-Hello people, my name is Sergio, I'm a junior pentester, actually owning eJPTv2 and looking to get eCPPTv2 and OSCP soon.
+Hello people , my name is Sergio, I'm a junior pentester, actually owning eJPTv2 and looking to get eCPPTv2 and OSCP soon.
 
 <h3>Things I code with</h3>
 
