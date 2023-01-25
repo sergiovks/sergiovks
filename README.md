@@ -28,6 +28,10 @@ My name is Sergio, I'm a junior pentester, actually owning eJPTv2 and looking to
 
 - ⚡ Fun fact: ...
 
+<div align="center">
+  <a href="mailto:sergiomarincontacto@gmail.com">Email</a> 
+</div>
+
 <!--
 **sergiovks/sergiovks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
