@@ -1,4 +1,4 @@
-<h1> 👋 :wave:</h1>
+<h1> sergiovks Repository AKA SezioS👋 </h1>
 
 <h3>whoami</h3>
 
