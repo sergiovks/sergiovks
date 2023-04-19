@@ -16,9 +16,9 @@ My name is Sergio, I'm a junior pentester, bug bounty hunter & CTF player, actua
 
 <h3>👷 Currently working at: 👷</h3>
 
-Hackerone as a Bug Bounty Hunter. <img src="https://static-00.iconduck.com/assets.00/hackerone-icon-512x512-s11oc51r.png" width="20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Hackerone as a Bug Bounty Hunter. <img src="https://static-00.iconduck.com/assets.00/hackerone-icon-512x512-s11oc51r.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-JakinCode as a Pentester. <img src="https://www.uptek.es/gestor/recursos/uploads/imagenes/empresas/logos/asociados/logo_transparente_320.png" width="20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+JakinCode as a Pentester. <img src="https://www.uptek.es/gestor/recursos/uploads/imagenes/empresas/logos/asociados/logo_transparente_320.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3>📖 Currently learning: 📖</h3>
 
